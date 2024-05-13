@@ -1,0 +1,8 @@
+((*- extends 'article.tplx' -*))
+
+% Remove header and footer
+((* block header -*))
+((* endblock header *))
+
+((* block footer -*))
+((* endblock footer *))
